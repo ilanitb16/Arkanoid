@@ -1,6 +1,6 @@
 # Arkanoid
 
-An implementation of the classic Arkanoid brick breaker game using Java. Was done part of the OOP course I took during in the first year of my bachelor degree. Arkanoid is a classic brick-breaking game where the player controls a paddle to deflect a ball against a wall of bricks. The goal of the game is to clear all of the bricks by breaking them. The player can lose the game by letting the ball fall below the bottom of the screen.
+An implementation of the classic Arkanoid brick breaker game using Java. It was a part of the OOP course I took during in the first year of my bachelor degree. Arkanoid is a classic brick-breaking game where the player controls a paddle to deflect a ball against a wall of bricks. The goal of the game is to clear all of the bricks by breaking them. The player can lose the game by letting the ball fall below the bottom of the screen.
 
 ## Information
 The game contains various levels with increasing difficulty, in a gui friendly platform.
